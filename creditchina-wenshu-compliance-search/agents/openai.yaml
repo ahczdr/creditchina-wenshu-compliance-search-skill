@@ -1,0 +1,4 @@
+interface:
+  display_name: "信用中国文书网合规查询"
+  short_description: "按公司批量下载信用报告并生成文书网行贿查询截图留证"
+  default_prompt: "Use $creditchina-wenshu-compliance-search to download CreditChina reports and search China Judgements Online criminal bribery records for the same companies."
